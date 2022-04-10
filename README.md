@@ -1,7 +1,5 @@
 ### Hi there 👋 this is Nikhil from India.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on My Portfolio
 - 🌱 I’m currently learning Web Dev
 - 👯 I’m looking to collaborate on Some awesome projects.
