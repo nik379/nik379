@@ -7,4 +7,4 @@
 - 💬 Ask me about Badminton, Web dev.
 - 📫 How to reach me: nikhilg.ug20.ee@nitp.ac.in
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Avinash is my roommate. 
+
