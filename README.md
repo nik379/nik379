@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Web Dev
 - 👯 I’m looking to collaborate on Some awesome projects.
 - 🤔 I’m looking for help with learning DSA
-- 💬 Ask me about Badminton, Web dev.
+- 💬 Ask me about Cricket, Web dev.
 - 📫 How to reach me: nikhilg.ug20.ee@nitp.ac.in
 - 😄 Pronouns: he/him
 
