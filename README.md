@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on Some awesome projects.
 - 🤔 I’m looking for help with learning DSA
 - 💬 Ask me about Cricket, Web dev.
-- 📫 How to reach me: nikhilg.ug20.ee@nitp.ac.in
+- 📫 How to reach me: nikhilgupta3501@gmail.com
 - 😄 Pronouns: he/him
 
